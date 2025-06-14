@@ -6,7 +6,7 @@
 #    By: abaiao-r <abaiao-r@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/06/14 16:13:25 by abaiao-r          #+#    #+#              #
-#    Updated: 2025/06/14 16:21:05 by abaiao-r         ###   ########.fr        #
+#    Updated: 2025/06/14 16:27:39 by abaiao-r         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -34,6 +34,3 @@ def NULL_not_found(object: any) -> int:
     else:
         print("Type not Found")
         return 1
-
-
-
