@@ -14,6 +14,23 @@ Data management is crucial for data engineers and scientists as it ensures the e
 - Date and Time Handling
 - Package Creation
 
+## How to Run
+
+For each exercise in this repository, you can run the code using Python 3.10. Simply go to the folder and execute the main script for the exercise you wish to try:
+```bash
+python3.10 <file_name>.py
+```
+
+If a tester.py file is available in the exercise folder, you can also run it to check how the code handles some test cases:
+```bash
+python3.10 tester.py
+```
+
+*Note:*
+    For Exercise 09 (ex09), please refer to the dedicated README.md inside the ex09 folder. It provides step-by-step instructions for building, installing, and testing the custom Python package.
+
+  
+
 ## Exercises
 ### Exercise 01: First Python Script
 - **Description**: Create a Python script that modifies data objects to display greetings in various formats.
